@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567881958 source:c:\users\tatiana\desktop\wave\pegando onda\pegando onda.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+
